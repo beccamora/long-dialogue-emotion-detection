@@ -1,0 +1,17 @@
+{
+  "T1_Text": {
+    "trainable_params": 1234567
+  },
+  "T2_Text+Atomic": {
+    "trainable_params": 1456789
+  },
+  "T3_Full": {
+    "trainable_params": 1789012
+  },
+  "Abl_NoGraph": {
+    "trainable_params": 1654321
+  },
+  "Abl_NoGraphNoTopic": {
+    "trainable_params": 1509876
+  }
+}
